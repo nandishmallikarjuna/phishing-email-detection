@@ -1,0 +1,28 @@
+=================================================================
+           PHISHING EMAIL DETECTION REPORT
+=================================================================
+
+Dataset size: 40 emails
+Training samples: 30
+Testing samples: 10
+
+Accuracy: 100.00%
+
+Confusion Matrix
+[[5 0]
+ [0 5]]
+
+New Email Predictions
+-----------------------------------------------------------------
+Email: Urgent! Verify your bank password immediately by clicking this link.
+Prediction: Phishing
+
+Email: The project meeting is scheduled for tomorrow at 11 AM.
+Prediction: Safe
+
+Email: Congratulations! You won a cash prize. Claim your reward now.
+Prediction: Phishing
+
+Email: Your university examination timetable is available on the student portal.
+Prediction: Safe
+
